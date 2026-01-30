@@ -9,7 +9,7 @@ resources:
     format: csv
     hashing: md5
     name: internacoes-via-urgencia-2025
-    path: data/internacoes-via-urgencia-2025.csv
+    path: data/internacoes-via-urgencia.csv
     profile: tabular-data-resource
     schema:
       fields:
