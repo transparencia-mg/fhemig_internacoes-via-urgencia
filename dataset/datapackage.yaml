@@ -30,4 +30,4 @@ resources:
           description: "Quantidade de pacientes da urgência (pronto-atendimento, pronto-socorro ou porta de urgência) que NÂO evoluíram para uma internação."
     scheme: file
     title: Pacientes da urgência internados
-title: Internações Hospitalares - Via Urgência
+title: Internações Hospitalares Via Urgência
